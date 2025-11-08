@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: mealplanner
+Version: 0.0.1
+Summary: Budget-aware weekly meal planner (MVP)
+Author-email: Neil <neil@example.com>
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# MealPlanner (MVP)
+
+Zero fuss weekly planner: picks 7 dinners, estimates cost, outputs a grocery list.
+
+## Quickstart
+```bash
+pip install -e .
+mealplanner plan --budget 100

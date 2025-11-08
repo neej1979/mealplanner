@@ -1,0 +1,10 @@
+{
+    "people": 2,
+    "budget_week_usd": 100,
+    "dislikes": ["shellfish", "raw onion", "kale", "very spicy"],
+    "avoid_whole_tomatoes": true,
+    "appliances": ["stovetop", "oven", "toaster_oven", "air_fryer", "kamado_joe", "traeger"],
+    "goals": { "protein_g_per_day": 120, "fiber_g_per_day": 30 },
+    "effort": "low"
+  }
+  

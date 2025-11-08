@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mealplanner"
+version = "0.0.1"
+description = "Budget-aware weekly meal planner (MVP)"
+authors = [{ name = "Neil", email = "neil@example.com" }]
+requires-python = ">=3.9"
+readme = "README.md"
+
+[project.scripts]
+mealplanner = "mealplanner.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]

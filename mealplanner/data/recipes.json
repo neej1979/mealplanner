@@ -1,0 +1,112 @@
+[
+    {
+      "id": "chicken_tikka_bowl",
+      "name": "Chicken Tikka Bowls",
+      "tags": ["high_protein", "low_effort", "reheat_ok"],
+      "method": "oven",
+      "minutes": 25,
+      "ingredients": [
+        { "item": "chicken_thighs_lb", "qty": 1 },
+        { "item": "tikka_sauce_jar", "qty": 0.5 },
+        { "item": "greek_yogurt_cup", "qty": 0.5 },
+        { "item": "microwave_rice_pack", "qty": 1 },
+        { "item": "frozen_peas_cup", "qty": 1 }
+      ],
+      "macros": { "protein_g": 85, "fiber_g": 10, "kcals": 980 },
+      "cost_usd": 12.0
+    },
+    {
+      "id": "spaghetti_bolognese",
+      "name": "Spaghetti Bolognese",
+      "tags": ["high_protein", "comfort", "leftovers_ok"],
+      "method": "stovetop",
+      "minutes": 30,
+      "ingredients": [
+        { "item": "ground_beef_lb", "qty": 1 },
+        { "item": "passata_jar", "qty": 0.5 },
+        { "item": "spaghetti_wholewheat_lb", "qty": 0.5 },
+        { "item": "garlic_clove", "qty": 2 }
+      ],
+      "macros": { "protein_g": 90, "fiber_g": 14, "kcals": 1250 },
+      "cost_usd": 11.5
+    },
+    {
+      "id": "sheetpan_salmon_potatoes_broccoli",
+      "name": "Sheet-Pan Salmon, Potatoes & Broccoli",
+      "tags": ["high_protein", "omega3", "low_effort", "reheat_ok"],
+      "method": "oven",
+      "minutes": 22,
+      "ingredients": [
+        { "item": "salmon_fillets_lb", "qty": 0.75 },
+        { "item": "potatoes_lb", "qty": 1 },
+        { "item": "broccoli_lb", "qty": 0.75 },
+        { "item": "olive_oil_tbsp", "qty": 2 },
+        { "item": "lemon", "qty": 1 }
+      ],
+      "macros": { "protein_g": 80, "fiber_g": 16, "kcals": 1100 },
+      "cost_usd": 13.0
+    },
+    {
+      "id": "chicken_fried_rice",
+      "name": "Chicken Fried Rice (High-Protein)",
+      "tags": ["budget", "uses_leftovers", "low_effort"],
+      "method": "stovetop",
+      "minutes": 20,
+      "ingredients": [
+        { "item": "cooked_rice_cup", "qty": 2 },
+        { "item": "chicken_thighs_lb", "qty": 0.5 },
+        { "item": "eggs", "qty": 4 },
+        { "item": "frozen_mixed_veg_cup", "qty": 1 },
+        { "item": "soy_sauce_tbsp", "qty": 2 },
+        { "item": "sesame_oil_tbsp", "qty": 0.5 }
+      ],
+      "macros": { "protein_g": 75, "fiber_g": 8, "kcals": 1050 },
+      "cost_usd": 8.5
+    },
+    {
+      "id": "smashburgers_side_salad",
+      "name": "Smashburgers + Side Salad",
+      "tags": ["comfort", "quick", "air_fryer_friendly"],
+      "method": "stovetop",
+      "minutes": 18,
+      "ingredients": [
+        { "item": "ground_beef_lb", "qty": 0.8 },
+        { "item": "brioche_buns", "qty": 2 },
+        { "item": "cheddar_slice", "qty": 4 },
+        { "item": "salad_mix_bag", "qty": 0.5 }
+      ],
+      "macros": { "protein_g": 70, "fiber_g": 6, "kcals": 1150 },
+      "cost_usd": 9.5
+    },
+    {
+      "id": "onepot_mild_chili",
+      "name": "One-Pot Mild Chili",
+      "tags": ["batch", "budget", "high_fiber", "leftovers_ok"],
+      "method": "stovetop",
+      "minutes": 35,
+      "ingredients": [
+        { "item": "ground_beef_lb", "qty": 1 },
+        { "item": "beans_cans", "qty": 2 },
+        { "item": "tomato_sauce_can", "qty": 1 },
+        { "item": "bell_pepper", "qty": 1 },
+        { "item": "chili_powder_mild_tbsp", "qty": 1 }
+      ],
+      "macros": { "protein_g": 95, "fiber_g": 24, "kcals": 1500 },
+      "cost_usd": 10.0
+    },
+    {
+      "id": "breakfast_for_dinner",
+      "name": "Eggs, Toast & Roasted Potatoes",
+      "tags": ["budget", "low_effort", "pantry_friendly"],
+      "method": "stovetop",
+      "minutes": 20,
+      "ingredients": [
+        { "item": "eggs", "qty": 6 },
+        { "item": "bread_slices", "qty": 4 },
+        { "item": "potatoes_lb", "qty": 1 }
+      ],
+      "macros": { "protein_g": 48, "fiber_g": 7, "kcals": 900 },
+      "cost_usd": 4.5
+    }
+  ]
+  
